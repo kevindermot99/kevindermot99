@@ -1,4 +1,4 @@
-![Header](https://lh3.googleusercontent.com/pw/AP1GczPSHcZckIsivCMeis4xj09VemzzLL9v2IKjG8rbYnW6_4S8ZJwyJBA6VjmQw4MswdFqIvV91msZKJTVpHIa5omyYCfwyof29kIjI2YFId89OSGH-1bIBtlCEPXzLDvzUiPbKO9GHQqhSV0EgYVW3DNoYQ=w1366-h342-s-no-gm?authuser=0)
+
 <h1 align="left">Hi 👋, I'm Kevin</h1>
 <h3 align="left">A passionate Full-stack development, and I'm from Rwanda, East Africa</h3>
 
