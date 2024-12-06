@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Kevin</h1>
-<h3 align="left">A passionate Full-stack development, and I'm from Rwanda, East Africa</h3>
+<h3 align="left">A Full-stack Web developer from Rwanda, East Africa</h3>
 
 - 🔭 I’m currently **pursuing my Bachelor's degree in Software Engineering at ALU (African Leadership University), 2024 to 2027.**
 
